@@ -13,7 +13,7 @@
 | #02    | Alta |EU, enquanto cliente, quero conseguir fazer o pagamento do meu pedido realizado | Web Site |  2  | 
 | #03    | Alta |EU, enquanto cliente, quero uma interface contendo um menu, carrousel, podendo realizar meus pedidos e pagamentos dos mesmos | Web Site |  2  | 
 | #04    | Média |EU, enquanto cliente, quero conseguir acompanhar meu pedido realizado | Web Site | 3  |
-| #05    | Média |EU, enquanto cliente, quero conseguir dar um feedback sobre meu pedido | Web Site | 3 |
+| #05    | Média |EU, enquanto cliente, quero conseguir dar um feedback sobre meu pedido | Web Site | 4 |
 
 
 
