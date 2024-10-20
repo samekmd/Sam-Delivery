@@ -21,8 +21,8 @@
 ## ➯ Protótipo
 
 <br>
-  <img align="left" title="figma-logo" height="60px" src="[https://user-images.githubusercontent.com/76211125/227502784-c94d5e2d-2e39-449b-ba85-053b9106b979.png](https://www.figma.com/proto/vLV2bDtZ86yxrW9SbKl3xr/Untitled?node-id=1-2&node-type=canvas&t=8I4jSSLqA5gMTOGw-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)"/>
-https://www.figma.com/proto/nqosnPwiCcfjUBpKQd0I42/API-3---SEMESTRE?node-id=24-5&t=Jp8r0mNTQ2El6JWK-1
+  <img align="left" title="figma-logo" height="60px" src="https://user-images.githubusercontent.com/76211125/227502784-c94d5e2d-2e39-449b-ba85-053b9106b979.png"/>
+https://www.figma.com/proto/vLV2bDtZ86yxrW9SbKl3xr/Untitled?node-id=1-2&node-type=canvas&t=DYGbd0CsGang213C-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2
 <br>
 <br>
 <br>
