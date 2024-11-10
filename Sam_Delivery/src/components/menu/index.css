@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hanunoo&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    display: flex;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    background-color: #03071E;
+}
+    
+
+nav{
+    display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 0 20px;
+}
+
+
+
+a{
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: #03071E;
+    padding: 25px;
+    font-family: "Noto Sans Hanunoo";
+    
+    
+}
+
+
+a:hover{
+    background-color: #9D0208;
+    transition: 400ms;
+    border-radius: 10px;   
+    
+    
+
+}
+
+
+.img-car{
+    width: 35px;
+    height: 35px;
+    padding-left: 50px;
+    padding-top: 10px;
+
+}
+
+
+
