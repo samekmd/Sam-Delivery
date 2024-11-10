@@ -3,11 +3,18 @@ import CardActions from '@mui/material/CardActions';
 import CardMedia from '@mui/material/CardMedia';
 import Button from '@mui/material/Button';
 import { Box } from '@mui/material';
-
+import { useNavigate } from 'react-router-dom';
 import Menu from '../../components/menu/menu';
 import Footer from '../../components/footer/footer';
 
 function Produtos() {
+
+  const navigate = useNavigate();
+
+  const handleNavigate = () => {
+    navigate("/pagar_produto");
+  }
+
   return (
     <div>
       <Menu />
@@ -30,7 +37,7 @@ function Produtos() {
             image="/src/imgs/DALL·E 2024-10-08 18.14.08 - A high-quality image of a freshly baked pizza for a delivery website. The pizza has a perfectly golden-brown crust, topped with melted mozzarella chee.webp"
           />
           <CardActions sx={{ display: "flex", justifyContent: "center" }}>
-            <Button sx={{ color: "white" }} size="large">Pedir</Button>
+            <Button sx={{ color: "white" }} size="large" onClick={() => handleNavigate()}>Pedir</Button>
           </CardActions>
         </Card>
 
@@ -40,7 +47,7 @@ function Produtos() {
             image="/src/imgs/DALL·E 2024-10-08 18.20.38 - A high-quality image of an acai bowl for a delivery website. The bowl is filled with rich, dark purple acai topped with fresh fruits like sliced banan.webp"
           />
           <CardActions sx={{ display: "flex", justifyContent: "center" }}>
-            <Button sx={{ color: "white" }} size="large">Pedir</Button>
+            <Button sx={{ color: "white" }} size="large" onClick={() => handleNavigate()}>Pedir</Button>
           </CardActions>
         </Card>
 
@@ -50,7 +57,7 @@ function Produtos() {
             image="/src/imgs/DALL·E 2024-10-08 18.21.39 - A high-quality image of a freshly baked esfihra for a delivery website. The esfihra has a golden, crispy crust and is topped with ground beef, onions,.webp"
           />
           <CardActions sx={{ display: "flex", justifyContent: "center" }}>
-            <Button sx={{ color: "white" }} size="large">Pedir</Button>
+            <Button sx={{ color: "white" }} size="large" onClick={() => handleNavigate()}>Pedir</Button>
           </CardActions>
         </Card>
       </Box>
